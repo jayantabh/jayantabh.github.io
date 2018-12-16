@@ -30,7 +30,7 @@ Relevant Projects:
 * Trigger word detection
 
 #### **2. Data Strutures and Algorithms Specialization:**
-<Text>
+Info to be added
 
 Courses: 
 * Algorithmic Toolbox (100%)

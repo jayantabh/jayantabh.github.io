@@ -30,7 +30,7 @@ Relevant Projects:
 * Trigger word detection
 
 #### **2. [Data Strutures and Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/9YX2CMYFYG7Y)**
-Info to be added
+Touted as one of the most important subjects in Computer Science, knowledge of Algorithms and Data Structures would certainly help anyone in a career in Computer Science. Since, I had graduated from college without having taken this course, I turned to online resources to add this essential subject to my repertoire. Coursera has two specializations on this subject and both have highly positive review. My reasons for choosing this one instead of the Algorithms specialization by Tim Roughgarden was simply because it provided a fairly high number of programming problems in assignments (~100) and was equally good in theory according to the reviews. 
 
 Courses: 
 * Algorithmic Toolbox (100%)
@@ -40,5 +40,5 @@ Courses:
 * Advanced Algorithms and Complexity (100%)
 
 Relevant Projects:
-* Project 1
-* Project 2
+* Big Networks
+* Genome Assembly Programming

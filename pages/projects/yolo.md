@@ -11,11 +11,19 @@ The popularity of the YOLO algorithm comes from the high-accuracy that it can ac
 
 For this model:
 1. The input is a batch of images of shape (m, 608, 608, 3)
-2. The output is a list of bounding boxes along with the recognized classes. Each bounding box is represented by 6 numbers  (pc,bx,by,bh,bw,c) as explained above. If you expand c into an 80-dimensional vector, each bounding box is then represented by 85 numbers.
+2. The output is a list of bounding boxes along with the recognized classes. Each bounding box is represented by 6 numbers  (pc,bx,by,bh,bw,c).
 
-Here, we use 5 anchor boxes. So the YOLO architecture is somewhat like: 
+<img src="/assets/img/box_label.png" alt="Logo" />
 
-IMAGE (m, 608, 608, 3) -> DEEP CNN -> ENCODING (m, 19, 19, 5, 85).
+Here, we use 5 anchor boxes. So the YOLO architecture is somewhat like:
 
 <img src="/assets/img/yolo_architecture.png" alt="Logo" />
-      
+
+The model tries to detect objects in each of the boxes in the 19X19 segments of the image and the segment which holds the center of the object is responsible for detecting the image.
+
+The anchor boxes are of different size so that we can detect both overlapping objects and objects of varying orientation and size.
+
+One of the issues with such a model is multiple detections of each object. This issue is mitigated by first rejecting any detection with a low score and then using Non-Max suppression to get a unique detection for each object. In Non-Max suppression we reject any detection which has a higher IoU than a threshold with the detection having highest score.
+
+Since the model takes a lot of time to train we have used pretrained weights from the YOLOv2 model and further trained it using our data. An example of output bounding boxes after filtering is given below:
+<img src="/assets/img/download.png" alt="Logo" />

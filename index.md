@@ -10,7 +10,7 @@ description: I am a Data Management Consultant and an aspiring Data Scientist. I
 Machine Learning, Data Science, Deep Learning, Computer Vision, Natural Language Processing
 
 ### **Certifications:**
-#### [**1. Deep Learning Specialization:**](https://www.coursera.org/account/accomplishments/specialization/TUC5PDD83AYS)
+#### **1. [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/TUC5PDD83AYS)**
 Deep Learning Specialization was an experience which made me think how a concept which is ubiquitous in the technology space can be so simple to implement. Taught by the highly revered professor, Andrew NG, it break down seemingly vast concepts in Deep Learning into simple terms, building these concepts from ground-up. Augmented with several real-life projects on topics covered, this specialization fits perfectly after Andrew's Machine Learning course for anyone interested in Neural Networks. 
 
 Courses: 
@@ -29,7 +29,7 @@ Relevant Projects:
 * Emojifier
 * Trigger word detection
 
-#### [**2. Data Strutures and Algorithms Specialization:**](https://www.coursera.org/account/accomplishments/specialization/9YX2CMYFYG7Y)
+#### **2. [Data Strutures and Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/9YX2CMYFYG7Y)**
 Info to be added
 
 Courses: 

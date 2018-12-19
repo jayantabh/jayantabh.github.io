@@ -21,7 +21,7 @@ Courses:
 * Sequence Models
 
 Relevant Projects:
-* Car Detection using YOLOv2
+* [Car Detection using YOLOv2](/pages/projects/yolo.md)
 * Interpreting Sign Language with Residual Networks
 * Art generation with Neural Style Transfer
 * Improvising Jazz Solo with LSTM Network

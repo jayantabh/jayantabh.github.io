@@ -17,7 +17,7 @@ For this model:
 
 Anchor boxes are the bounding boxes that are used to search for objects. Here, we use 5 anchor boxes. So the YOLO architecture is somewhat like:
 
-<img src="/assets/img/yolo_architecture.png" alt="Logo" height="640" width="480" />
+<img src="/assets/img/yolo_architecture.png" alt="Logo" height="480" width="640" />
 
 The model tries to detect objects in each of the segments in the 19X19 grid and the segment which holds the center of the object is responsible for detecting the image.
 

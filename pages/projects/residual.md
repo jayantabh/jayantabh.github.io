@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Car detection with YOLOv2
+title: Interpreting Sign Language with Residual Networks
 ---
 
 ## **Description**

@@ -5,7 +5,7 @@ title: Car detection with YOLOv2
 
 ## **Description**
 
-This project involved object detection using the very powerful YOLO model. Many of the ideas in this project are described in the two YOLO papers: Redmon et al., 2016 (https://arxiv.org/abs/1506.02640) and Redmon and Farhadi, 2016 (https://arxiv.org/abs/1612.08242).
+This project involved object detection using the very powerful YOLO model. Many of the ideas in this project are described in the two YOLO papers: [Redmon et al., 2016](https://arxiv.org/abs/1506.02640) and [Redmon and Farhadi, 2016](https://arxiv.org/abs/1612.08242).
 
 The popularity of the YOLO algorithm comes from the high-accuracy that it can achieve while being able to process images in real-time. This is due to the fact that it only needs to process each image through the model once to detect all objects in the image. 
 

@@ -17,7 +17,7 @@ We will do this by using VGG-19, a 19-layer version of the VGG network. This mod
 
 We will build the NST algorithm in three steps:
 
-* Build the content cost function $J_{content}(C,G)$
-* Build the style cost function $J_{style}(S,G)$
-* Put it together to get $J(G) = \alpha J_{content}(C,G) + \beta J_{style}(S,G)$. 
+* Build the content cost function <a href="https://www.codecogs.com/eqnedit.php?latex=$J_{content}(C,G)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J_{content}(C,G)$" title="$J_{content}(C,G)$" /></a>
+* Build the style cost function <a href="https://www.codecogs.com/eqnedit.php?latex=$J_{style}(S,G)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J_{style}(S,G)$" title="$J_{style}(S,G)$" /></a>
+* Put it together to get <a href="https://www.codecogs.com/eqnedit.php?latex=$J(G)&space;=&space;\alpha&space;J_{content}(C,G)&space;&plus;&space;\beta&space;J_{style}(S,G)$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$J(G)&space;=&space;\alpha&space;J_{content}(C,G)&space;&plus;&space;\beta&space;J_{style}(S,G)$" title="$J(G) = \alpha J_{content}(C,G) + \beta J_{style}(S,G)$" /></a>. 
 

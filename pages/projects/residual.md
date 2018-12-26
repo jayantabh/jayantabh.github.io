@@ -27,6 +27,6 @@ We will test our model on the SIGNS dataset which contains integers in Sign lang
 
 The dataset contains 1200 examples of which 1080 examples are in train set and the other 120 are in the test set.
 
-Training this model with 20 epochs provided a train and test accuracy of 94% and 86% respectively.
+Training this model with 20 epochs gives a train and test accuracy of 94% and 86% respectively.
 
 

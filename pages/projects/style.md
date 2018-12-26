@@ -3,4 +3,6 @@ layout: default
 title: Art generation with Neural Style Transfer
 ---
 
-### This page will be updated soon. Please visit after a few days.
+### Description:
+
+In this project, we used Neural Style Transfer to generate novel art resembling the work of an artist. This algorithm was created by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576).

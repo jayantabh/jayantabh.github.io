@@ -4,6 +4,8 @@ title: Jayanta Bhowmick
 description: I am a Data Management Consultant and an aspiring Data Scientist. I am currently applying for Master's in Computer Science for Fall '19.
 ---
 
+## This website is a work in progress. Please visit a few days later if you see a page which has content missing.
+
 ## **Personal Bio**
 
 ### **Interests:** 

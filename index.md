@@ -22,23 +22,24 @@ Courses:
 
 Relevant Projects:
 * [Car Detection using YOLOv2](/pages/projects/yolo.md)
-* Interpreting Sign Language with Residual Networks
-* Art generation with Neural Style Transfer
-* Improvising Jazz Solo with LSTM Network
-* Debiasing word embeddings
-* Emojifier
-* Trigger word detection
+* [Interpreting Sign Language with Residual Networks](/pages/projects/residual.md)
+* [Art generation with Neural Style Transfer](/pages/projects/style.md)
+* [Improvising Jazz Solo with LSTM Network](/pages/projects/jazz.md)
+* [Debiasing word embeddings](/pages/projects/debias.md)
+* [Emojifier](/pages/projects/emojifier.md)
+* [Trigger word detection](/pages/projects/trigger.md)
 
 #### **2. [Data Strutures and Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/9YX2CMYFYG7Y)**
 Touted as one of the most important subjects in Computer Science, knowledge of Algorithms and Data Structures would certainly help anyone in a career in Computer Science. Since, I had graduated from college without having taken this course, I turned to online resources to add this essential subject to my repertoire. Coursera has two specializations on this subject and both have highly positive review. My reasons for choosing this one instead of the Algorithms specialization by Tim Roughgarden was simply because it provided a fairly high number of programming problems in assignments (~100) and was equally good in theory according to the reviews. 
 
 Courses: 
-* Algorithmic Toolbox (100%)
-* Data Structures (95.2%)
-* Algorithms on Graphs (100%)
-* Algorithms on Strings (93.6%)
-* Advanced Algorithms and Complexity (100%)
+* Algorithmic Toolbox
+* Data Structures 
+* Algorithms on Graphs
+* Algorithms on Strings
+* Advanced Algorithms and Complexity
+* Genome Assembly Programming Challenge
 
 Relevant Projects:
-* Big Networks
-* Genome Assembly Programming
+* [Big Networks](/pages/projects/bignetworks.md)
+* [Genome Assembly Programming](/pages/projects/genome.md)
